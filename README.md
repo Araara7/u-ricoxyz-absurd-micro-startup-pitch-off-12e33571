@@ -8,11 +8,11 @@ Entry for the [Absurd Micro-Startup Pitch-Off](https://make.fun/bounty/u-ricoxyz
 
 ## The pitch
 
-> We sell pre-written apology emails for AI agents that hallucinate in production — $9 a month, one sorry per outage, auto-sent before your users even notice.
+> We sell pre-written apology emails for customer-support agents that hallucinate refund policies in production — $9 a month, one sorry per outage, auto-sent before your users notice.
 
 ## How it works
 
-`main.py` writes the pitch to `/output/entry.txt` (156 characters, one sentence, UTF-8).
+`main.py` writes the pitch to `/output/entry.txt` (181 characters, one sentence, UTF-8).
 
 ```sh
 python3 main.py
